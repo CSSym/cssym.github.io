@@ -1,6 +1,8 @@
 .aaa {
-border:1px solid brown;
-border-radius:10px;
+border-top:1px solid brown;
+border-bottom:1px solid brown;
+  border-left:0px solid brown;
+  border-right:0px solid brown;
 color:lightgreen;
 font-size:30px;
 font-style:italic;
